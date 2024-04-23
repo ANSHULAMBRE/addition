@@ -1,0 +1,7 @@
+Explanation
+In the above program, the user is first asked to enter two numbers, 
+and the input is scanned using the scanf() function and stored in the variables A and B. 
+Then, the variables A and B are added using the arithmetic operator + (addition operator), 
+and the result is stored in the variable sum.
+
+
